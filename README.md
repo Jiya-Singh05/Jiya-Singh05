@@ -7,20 +7,16 @@
 
 <br>
 
-
 </div>
 
 ---
 
 ## 🌟 About Me
 
-
-
 ```javascript
 class Developer {
     constructor() {
         this.name = "Jiya Singh";
-        this.pronouns = "She/Her";
         this.currentlyLearning = ["C","JavaScript", "Web Dev","Python"];
         this.interests = ["Frontend Development","Problem Solving"];
     }
@@ -175,7 +171,7 @@ const jiya = new Developer();
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jiya-Singh05&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true)](https://github.com/Jiya-Singh05)
+<img src="https://github-profile-trophy.vercel.app/?username=Jiya-Singh05&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
