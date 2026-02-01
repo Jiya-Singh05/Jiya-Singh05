@@ -17,6 +17,7 @@
 class Developer {
     constructor() {
         this.name = "Jiya Singh";
+        this.pronouns = "She/Her";
         this.currentlyLearning = ["C","JavaScript", "Web Dev","Python"];
         this.interests = ["Frontend Development","Problem Solving"];
     }
@@ -147,11 +148,21 @@ const jiya = new Developer();
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiya-Singh05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiya-Singh05&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF&sideLabels=FFF&currStreakNum=FFF&sideNums=FFF" />
+<a href="https://github.com/Jiya-Singh05">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiya-Singh05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&count_private=true&include_all_commits=true" alt="Jiya's GitHub Stats" />
+</a>
+<a href="https://github.com/Jiya-Singh05">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiya-Singh05&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF&sideLabels=FFF&currStreakNum=FFF&sideNums=FFF" alt="Jiya's Streak Stats" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya-Singh05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiya-Singh05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph" />
+<br/>
+
+<a href="https://github.com/Jiya-Singh05">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya-Singh05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=8" alt="Top Languages" />
+</a>
+<a href="https://github.com/Jiya-Singh05">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiya-Singh05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</a>
 
 </div>
 
