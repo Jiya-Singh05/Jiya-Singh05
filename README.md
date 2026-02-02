@@ -1,4 +1,14 @@
 <div align="center">
+  <img src="https://github.com/Jiya-Singh05/Jiya-Singh05/blob/main/space github.mp4" width="100%" height="600px" alt="Developer Banner"/>
+</div>
+
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border1" width="100%">
+
+
+
+
+
+<div align="center">
 
 <!-- Animated Header with Typing Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Jiya%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20coding%20universe%20✨&descAlignY=55&descAlign=50" width="100%"/>
