@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated Header with Typing Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Jiya%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20coding%20universe%20✨&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:150050,50:3F0071,100:610094&height=300&section=header&text=%20Jiya%20Singh%20&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🛸%20Coding%20Across%20The%20Digital%20Galaxy%20🌠&descAlignY=62&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=100&lines=Creative+Problem+Solver+%F0%9F%92%A1;Building+Digital+Dreams+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B1;Code+%7C+Create+%7C+Innovate+%F0%9F%92%BB" alt="Typing SVG" />
 
