@@ -1,25 +1,22 @@
 <div align="center">
-  <img src="https://github.com/Jiya-Singh05/Jiya-Singh05/blob/main/space github.mp4" width="100%" height="600px" alt="Developer Banner"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900"/>
 </div>
 
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border1" width="100%">
-
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
 <!-- Animated Header with Typing Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Jiya%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20coding%20universe%20✨&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Building+Digital+Dreams+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B1;Code+%7C+Create+%7C+Innovate+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=100&lines=Creative+Problem+Solver+%F0%9F%92%A1;Building+Digital+Dreams+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B1;Code+%7C+Create+%7C+Innovate+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br>
 
 </div>
 
 ---
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🌟 About Me
 
@@ -46,15 +43,20 @@ const jiya = new Developer();
 
 <br>
 
-💖 **Passionate** about turning ideas into reality through code  
-🎨 **Creative** developer who loves designing beautiful interfaces  
-🌱 **Currently learning** modern web development and algorithms  
-🎯 **Goal for 2025:** Build 10+ impactful projects and contribute to open source  
+**Passionate** about turning ideas into reality through code  
+ **Creative** developer who loves designing beautiful interfaces  
+ **Currently learning** modern web development and algorithms  
+ **Goal for 2025:** Build 10+ impactful projects and contribute to open source  
 
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🛠️ Tech Universe
+<div align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
+</div>
 
 <div align="center">
 
@@ -75,7 +77,7 @@ const jiya = new Developer();
 
 ---
 
-## 🚀 Projects Galaxy
+## Projects Galaxy
 
 <div align="center">
 
@@ -140,9 +142,9 @@ const jiya = new Developer();
 <img src="https://img.shields.io/badge/Status-In_Development-FFA500?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 **Currently Working On:**  
-🔨 New web applications  
-🎨 Creative UI experiments  
-💡 Exciting side projects
+ New web applications  
+ Creative UI experiments  
+ Exciting side projects
 
 <p>Stay tuned for updates! 🚀</p>
 </div>
@@ -170,6 +172,7 @@ const jiya = new Developer();
 </div>
 
 ---
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🏆 Achievements & Milestones
 
@@ -177,11 +180,11 @@ const jiya = new Developer();
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  🎯  Built 3+ production-ready projects                      ║
-║  📚  Mastering C, HTML, CSS & JavaScript                     ║
-║  🌱  Committed to learning something new every day           ║
-║  💡  Passionate about clean code and best practices          ║
-║  🚀  Ready to take on new challenges and opportunities       ║
+║   Built 3+ production-ready projects                      ║
+║   Mastering C, HTML, CSS & JavaScript                     ║
+║   Committed to learning something new every day           ║
+║   Passionate about clean code and best practices          ║
+║   Ready to take on new challenges and opportunities       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -223,11 +226,11 @@ const jiya = new Developer();
 
 ### 🌟 Fun Facts
 
-🎨 I believe coding is an art form  
+ I believe coding is an art form  
 ☕ Coffee-fueled coding sessions are my favorite  
-🌙 Night owl who codes best under the stars  
+ Night owl who codes best under the stars  
 📖 Always exploring new technologies and frameworks  
-💪 Believer in the power of consistent progress  
+ Believer in the power of consistent progress  
 
 </div>
 
@@ -239,4 +242,7 @@ const jiya = new Developer();
 
 **⭐️ If you like my projects, give them a star! It means a lot! ⭐️**
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
+
+
