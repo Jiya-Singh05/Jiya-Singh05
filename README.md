@@ -15,7 +15,7 @@
 
 </div>
 
----
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🌟 About Me
@@ -49,7 +49,7 @@ const jiya = new Developer();
  **Goal for 2025:** Build 10+ impactful projects and contribute to open source  
 
 
----
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -75,11 +75,13 @@ const jiya = new Developer();
 
 </div>
 
----
+
 
 ## Projects Galaxy
 
 <div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### ✨ Featured Work
 
@@ -152,7 +154,7 @@ const jiya = new Developer();
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Cosmos
 
@@ -171,7 +173,7 @@ const jiya = new Developer();
 
 </div>
 
----
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🏆 Achievements & Milestones
@@ -191,9 +193,11 @@ const jiya = new Developer();
 
 </div>
 
----
+
 
 ## 💬 Let's Connect & Collaborate!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -220,7 +224,7 @@ const jiya = new Developer();
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -234,7 +238,7 @@ const jiya = new Developer();
 
 </div>
 
----
+
 
 <div align="center">
 
