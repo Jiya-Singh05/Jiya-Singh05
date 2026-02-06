@@ -4,6 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
 <div align="center">
 
 <!-- Animated Header with Typing Effect -->
@@ -15,8 +16,6 @@
 
 </div>
 
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🌟 About Me
 
@@ -43,10 +42,23 @@ const jiya = new Developer();
 
 <br>
 
-**Passionate** about turning ideas into reality through code  
- **Creative** developer who loves designing beautiful interfaces  
- **Currently learning** modern web development and algorithms  
- **Goal for 2025:** Build 10+ impactful projects and contribute to open source  
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+
+✨ **Passionate** about turning ideas into reality through code  
+
+🎨 **Creative** developer who loves designing beautiful interfaces  
+
+📚 **Currently learning** modern web development and algorithms  
+
+🎯 **Goal for 2025:** Build 10+ impactful projects and contribute to open source
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>  
 
 
 
@@ -157,23 +169,19 @@ const jiya = new Developer();
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Cosmos
-
 <div align="center">
-
-
 <a href="https://github.com/Jiya-Singh05">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiya-Singh05&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF&sideLabels=FFF&currStreakNum=FFF&sideNums=FFF" alt="Jiya's Streak Stats" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiya-Singh05&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF&sideLabels=FFF&currStreakNum=FFF&sideNums=FFF" alt="Jiya's Streak Stats" />
 </a>
-
 <br/>
-
 <a href="https://github.com/Jiya-Singh05">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiya-Singh05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiya-Singh05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </a>
-
+<br/>
+<a href="https://leetcode.com/Jiyasingh2006/">
+  <img width="40%" src="https://leetcard.jacoblin.cool/Jiyasingh2006?theme=dark&font=Syne%20Mono&ext=contest" alt="LeetCode Stats" />
+</a>
 </div>
-
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🏆 Achievements & Milestones
@@ -196,9 +204,7 @@ const jiya = new Developer();
 
 
 ## 💬 Let's Connect & Collaborate!
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
 
 ### 🌐 Find Me Around the Web
@@ -212,11 +218,15 @@ const jiya = new Developer();
 <a href="https://github.com/Jiya-Singh05">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/Jiyasingh2006/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 <a href="https://portfolio-jiyasingh.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <br><br>
+</div>
 
 ### 💭 My Philosophy
 
