@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdjaHQxNDVncmFmbWZzZWNpMzlqdmcxeHF5aDZwOXRjNDE3N2dubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="900"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 
 <div align="center">
 
@@ -53,7 +50,6 @@ const jiya = new Developer();
 
 📚 **Currently learning** modern web development and algorithms  
 
-🎯 **Goal for 2025:** Build 10+ impactful projects and contribute to open source
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
@@ -63,7 +59,7 @@ const jiya = new Developer();
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## 🛠️ Tech Universe
 <div align="center">
@@ -166,8 +162,6 @@ const jiya = new Developer();
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📊 GitHub Cosmos
 <div align="center">
 <a href="https://github.com/Jiya-Singh05">
@@ -182,7 +176,7 @@ const jiya = new Developer();
   <img width="40%" src="https://leetcard.jacoblin.cool/Jiyasingh2006?theme=dark&font=Syne%20Mono&ext=contest" alt="LeetCode Stats" />
 </a>
 </div>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 ## 🏆 Achievements & Milestones
 
@@ -204,7 +198,7 @@ const jiya = new Developer();
 
 
 ## 💬 Let's Connect & Collaborate!
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <div align="center">
 
 ### 🌐 Find Me Around the Web
@@ -227,15 +221,6 @@ const jiya = new Developer();
 
 <br><br>
 </div>
-
-### 💭 My Philosophy
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%22Code+is+poetry+written+in+logic%22;%22Every+bug+is+a+lesson+in+disguise%22;%22Build+with+passion%2C+ship+with+pride%22;%22Dream+big%2C+code+bigger%22" alt="Philosophy" />
-
-</div>
-
-
-
 <div align="center">
 
 ### 🌟 Fun Facts
@@ -256,7 +241,6 @@ const jiya = new Developer();
 
 **⭐️ If you like my projects, give them a star! It means a lot! ⭐️**
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
 
