@@ -41,8 +41,6 @@ const jiya = new Developer();
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-
 
 ✨ **Passionate** about turning ideas into reality through code  
 
@@ -51,8 +49,6 @@ const jiya = new Developer();
 📚 **Currently learning** modern web development and algorithms  
 
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>  
 
