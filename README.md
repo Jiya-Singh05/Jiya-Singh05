@@ -20,7 +20,6 @@
 class Developer {
     constructor() {
         this.name = "Jiya Singh";
-        this.currentlyLearning = ["C","JavaScript", "Web Dev","Python"];
         this.interests = ["Frontend Development","Problem Solving"];
     }
     
@@ -29,7 +28,6 @@ class Developer {
             coding: "Building amazing web experiences",
             learning: "New technologies every day",
             exploring: "The endless possibilities of code",
-            motto: "Dream it. Code it. Ship it. 🚀"
         };
     }
 }
@@ -70,6 +68,7 @@ const jiya = new Developer();
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 
 ### 🔧 Tools & Platforms
 
@@ -79,84 +78,6 @@ const jiya = new Developer();
 
 </div>
 
-
-
-## Projects Galaxy
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### ✨ Featured Work
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%">
-<h3 align="center">🎫 Ticket Booking System</h3>
-<div align="center">
-<a href="https://github.com/Jiya-Singh05/Ticket-Booking-Management-System" target="_blank">
-</a>
-
-**Built with:** C Programming  
-**Features:** Comprehensive booking management, user-friendly interface, efficient data handling
-
-<a href="https://github.com/Jiya-Singh05/Ticket-Booking-Management-System">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">💼 Personal Portfolio</h3>
-<div align="center">
-<a href="https://portfolio-jiyasingh.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white&label=LIVE&labelColor=000"/>
-</a>
-
-**Built with:** HTML, CSS, JavaScript  
-**Features:** Responsive design, modern UI, showcases my journey and projects
-
-<a href="https://portfolio-jiyasingh.vercel.app/">
-<img src="https://img.shields.io/badge/Visit_Site-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">🎲 Random Number Generator</h3>
-<div align="center">
-<a href="https://random-number-generator-pearl.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Generator-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white&label=LIVE&labelColor=000"/>
-</a>
-
-**Built with:** HTML, CSS, JavaScript  
-**Features:** Clean UI, instant generation, customizable range
-
-<a href="https://random-number-generator-pearl.vercel.app/">
-<img src="https://img.shields.io/badge/Try_It-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">🌟 More Coming Soon...</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Status-In_Development-FFA500?style=for-the-badge&logo=rocket&logoColor=white"/>
-
-**Currently Working On:**  
- New web applications  
- Creative UI experiments  
- Exciting side projects
-
-<p>Stay tuned for updates! 🚀</p>
-</div>
-</td>
-</tr>
-</table>
 
 ## 📊 GitHub Cosmos
 <div align="center">
@@ -181,7 +102,7 @@ const jiya = new Developer();
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
 ║   Built 3+ production-ready projects                      ║
-║   Mastering C, HTML, CSS & JavaScript                     ║
+║   50 Days and 100 Days Badge holder on LeetCode           ║
 ║   Committed to learning something new every day           ║
 ║   Passionate about clean code and best practices          ║
 ║   Ready to take on new challenges and opportunities       ║
