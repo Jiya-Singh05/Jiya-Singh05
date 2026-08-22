@@ -92,6 +92,10 @@ const jiya = new Developer();
 <a href="https://github.com/Jiya-Singh05">
 <img width="90%" src="https://raw.githubusercontent.com/Jiya-Singh05/Jiya-Singh05/output/github-contribution-grid-snake-dark.svg" alt="Jiya's GitHub Contribution Snake" />
 </a>
+<br/>
+<a href="https://github.com/Jiya-Singh05">
+  <img width="90%" src="https://github-profile-3d-contrib.vercel.app/profile-night-rainbow/?username=Jiya-Singh05" alt="3D Contribution Skyline" />
+</a>
 </div>
 
 
@@ -99,16 +103,13 @@ const jiya = new Developer();
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║   Built 3+ production-ready projects                      ║
-║   50 Days and 100 Days Badge holder on LeetCode           ║
-║   Committed to learning something new every day           ║
-║   Passionate about clean code and best practices          ║
-║   Ready to take on new challenges and opportunities       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+![trophy](https://github-profile-trophy.vercel.app/?username=Jiya-Singh05&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15)
 
+✨ Built 3+ production-ready projects  
+🎯 50 Days and 100 Days Badge holder on LeetCode  
+📚 Committed to learning something new every day  
+🧹 Passionate about clean code and best practices  
+🚀 Ready to take on new challenges and opportunities  
 
 </div>
 
@@ -159,5 +160,3 @@ const jiya = new Developer();
 **⭐️ If you like my projects, give them a star! It means a lot! ⭐️**
 
 </div>
-
-
