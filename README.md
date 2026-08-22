@@ -89,8 +89,8 @@ const jiya = new Developer();
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiya-Singh05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </a>
 <br/>
-<a href="https://leetcode.com/Jiyasingh2006/">
-  <img width="40%" src="https://leetcard.jacoblin.cool/Jiyasingh2006?theme=dark&font=Syne%20Mono&ext=contest" alt="LeetCode Stats" />
+<a href="https://github.com/Jiya-Singh05">
+<img width="90%" src="https://raw.githubusercontent.com/Jiya-Singh05/Jiya-Singh05/output/github-contribution-grid-snake-dark.svg" alt="Jiya's GitHub Contribution Snake" />
 </a>
 </div>
 
