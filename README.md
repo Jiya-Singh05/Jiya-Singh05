@@ -87,15 +87,7 @@ const jiya = new Developer();
 </a>
 <br/>
 <a href="https://github.com/Jiya-Singh05">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiya-Singh05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</a>
-<br/>
-<a href="https://github.com/Jiya-Singh05">
 <img width="90%" src="https://raw.githubusercontent.com/Jiya-Singh05/Jiya-Singh05/output/github-contribution-grid-snake-dark.svg" alt="Jiya's GitHub Contribution Snake" />
-</a>
-<br/>
-<a href="https://github.com/Jiya-Singh05">
-  <img width="90%" src="https://github-profile-3d-contrib.vercel.app/profile-night-rainbow/?username=Jiya-Singh05" alt="3D Contribution Skyline" />
 </a>
 </div>
 
@@ -103,8 +95,6 @@ const jiya = new Developer();
 ## 🏆 Achievements & Milestones
 
 <div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Jiya-Singh05&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15)
 
 ✨ Built 3+ production-ready projects  
 🎯 50 Days and 100 Days Badge holder on LeetCode  
